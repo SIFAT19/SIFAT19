@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sifat19&label=Profile%20views&color=0e75b6&style=flat" alt="sifat19" /> </p>
 
 - 🌱 I’m currently learning **Python,Open-CV**
-
+-  I am currently working with TEAM DURBAR's Mars Rover team at KUET, specifically in the control subteam."
 - 📫 How to reach me **islam2103119@stud.kuet.ac.bd**
 
 <h3 align="left">Connect with me:</h3>
