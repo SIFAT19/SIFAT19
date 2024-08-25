@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm S.M SIFATUL ISLAM</h1>
-<h3 align="center">Hello! I am a student at KUET, currently pursuing a degree in EEE.</h3>
+<h3 align="center"> I am a student at KUET, currently pursuing a degree in EEE.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sifat19&label=Profile%20views&color=0e75b6&style=flat" alt="sifat19" /> </p>
 
