@@ -12,7 +12,7 @@
 <a href="https://linkedin.com/in/s-m-sifatul-islam-a24507251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s-m-sifatul-islam-a24507251" height="30" width="40" /></a>
 <a href="https://fb.com/sm.sifat.islam.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sm.sifat.islam.1" height="30" width="40" /></a>
 <a href="https://instagram.com/error_9066" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="error_9066" height="30" width="40" /></a>
-<a href="https://www.quora.com/profile/S-M-Sifatul-Islam" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Quora_Q_icon.png/1200px-Quora_Q_icon.png" alt="Quora" height="30" width="40" /></a>
+<a href="https://www.quora.com/profile/S-M-Sifatul-Islam" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Quora_logo_Q.png" alt="Quora" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
