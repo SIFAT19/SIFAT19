@@ -12,7 +12,7 @@
 <a href="https://linkedin.com/in/s-m-sifatul-islam-a24507251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s-m-sifatul-islam-a24507251" height="30" width="40" /></a>
 <a href="https://fb.com/sm.sifat.islam.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sm.sifat.islam.1" height="30" width="40" /></a>
 <a href="https://instagram.com/error_9066" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="error_9066" height="30" width="40" /></a>
-<a href="https://www.quora.com/profile/S-M-Sifatul-Islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/quora.svg" alt="Quora" height="30" width="40" /></a>
+<a href="https://www.quora.com/profile/S-M-Sifatul-Islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/quora.svg" alt="Quora" height="30" width="40" style="filter: invert(15%) sepia(94%) saturate(5832%) hue-rotate(1deg) brightness(95%) contrast(129%);" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
