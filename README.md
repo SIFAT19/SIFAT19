@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Python, OpenCV**
 - I am currently working with TEAM DURBAR's Mars Rover team at KUET, specifically in the control subteam.
 - 📫 How to reach me **islam2103119@stud.kuet.ac.bd**
-
+-   visit my website https://sifat3401.wixsite.com/sifat
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/s-m-sifatul-islam-a24507251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s-m-sifatul-islam-a24507251" height="30" width="40" /></a>
